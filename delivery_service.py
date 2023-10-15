@@ -4,7 +4,8 @@
 
 from graph import Graph, Vertex
 
-class City:
+
+class DeliveryService:
     def __init__(self):
         """
         Constructor of the City class
@@ -18,4 +19,3 @@ class City:
         :return:
         """
         pass
-
