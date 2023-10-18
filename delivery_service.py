@@ -4,7 +4,7 @@ Project 2 - Fall 2023
 """
 
 from graph import Graph, Vertex
-
+from priority_queue import PriorityQueue
 
 class DeliveryService:
     def __init__(self) -> None:
